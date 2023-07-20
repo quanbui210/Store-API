@@ -1,0 +1,1 @@
+# Store API - Backend server built with Node, Express and MongoDB
